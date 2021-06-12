@@ -7,7 +7,7 @@ This is a Telegram URL Upload Bot!
 /help for more details..
 
 Support Bot : @TaRe8A7MeD
-© @SpEcHlDe , @TaRe8A7MeD"""
+© @TaRe8A7MeD , @TaRe8A7MeD"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
